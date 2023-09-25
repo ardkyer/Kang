@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/현구/OneDrive/바탕 화면/gitt",
-      "program": "c:/Users/현구/OneDrive/바탕 화면/gitt/build/Debug/outDebug",
+      "cwd": "c:/Users/현구/OneDrive/문서/Kang",
+      "program": "c:/Users/현구/OneDrive/문서/Kang/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
